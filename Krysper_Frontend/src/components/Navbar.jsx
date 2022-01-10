@@ -104,7 +104,7 @@ const Navbar = () => {
               )
             )}
             <li
-              className="p-2 rounded-full absolute bottom-10 right-4 bg-white priyanshu2"
+              className="p-2 rounded-full absolute bottom-32 right-4 bg-white priyanshu2"
               onClick={() => {
                 window.location.href =
                   "https://www.linkedin.com/in/priyanshuirl/";

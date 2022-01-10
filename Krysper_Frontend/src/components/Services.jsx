@@ -33,7 +33,7 @@ const Services = () => (
   >
     <div className="flex mf:flex-row-reverse flex-col items-center justify-between md:p-20 py-12 px-4">
       <div className="flex-1 flex flex-col justify-start items-start lg:ml-28 mb-12 lg:mb-2">
-        <h1 className="text-white text-3xl md:text-7xl py-3 text-gradient">
+        <h1 className="text-white text-6xl md:text-7xl py-3 text-gradient">
           Why choose Krysper ?
         </h1>
         <p className="text-left text-2xl my-4 text-white font-light md:w-9/12 w-11/12">

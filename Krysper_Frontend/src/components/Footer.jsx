@@ -54,7 +54,7 @@ const Footer = () => (
     <div className="flex justify-center items-center flex-col mt-5">
       <p className="text-white text-md lg:text-xl text-center">
         Designed and Developed by{" "}
-        <a href="https://www.linkedin.com/in/priyanshuirl/">
+        <a href="https://priyanshumishra.netlify.app/">
           <b>Priyanshu&nbsp;Mishra</b>
         </a>
       </p>
@@ -68,7 +68,7 @@ const Footer = () => (
     <div className="sm:w-[90%] w-full h-[0.25px] bg-gray-400 mt-5 " />
 
     <div className="sm:w-[90%] w-full flex justify-between items-center mt-3">
-      <a href="https://www.linkedin.com/in/priyanshuirl/">
+      <a href="https://priyanshumishra.netlify.app/">
         <b>
           <p className="text-white text-left text-sm lg:text-lg">
             Priyanshu Mishra

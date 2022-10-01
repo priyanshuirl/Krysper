@@ -65,7 +65,7 @@ const Navbar = () => {
           className={`mx-4 p-2 cursor-pointer border-2 border-transparent text-lg font-semibold rounded-full  hover:mb-4`}
           style={{ color: "rgb(5,10,48)", transition: "0.3s ease" }}
           onClick={() => {
-            window.location.href = "https://www.linkedin.com/in/priyanshuirl/";
+            window.location.href = "https://priyanshumishra.netlify.app/";
           }}
         >
           <p className="priyanshu">Made By Priyanshu Mishra</p>
@@ -107,7 +107,7 @@ const Navbar = () => {
               className="p-2 rounded-full absolute bottom-32 right-4 bg-white priyanshu2"
               onClick={() => {
                 window.location.href =
-                  "https://www.linkedin.com/in/priyanshuirl/";
+                  "https://priyanshumishra.netlify.app/";
               }}
             >
               <p className="text-white">Made by Priyanshu Mishra</p>
